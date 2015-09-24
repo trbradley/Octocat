@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a snapshot of its parent branch at the last commit when it was created. It allows you to make changes to merge at a later point.
