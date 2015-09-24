@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+Upstream refers to the repositories/commits from which data is pulled. To commit to an upstream remote would be to merge changes from your local repo to the upstream one stored elsewhere.
